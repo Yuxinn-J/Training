@@ -1,0 +1,4 @@
+1:0:Register Courses
+2:0:Apply Entry Approval
+3:0:Study Deep Learning
+4:0:Study on Coursera
