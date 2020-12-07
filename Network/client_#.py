@@ -1,10 +1,11 @@
 import socket  # 网络连接专用包
-HOST = '220.181.38.148'
+
+HOST = '39.156.69.79'
 PORT = 80  # Default port of HTTP
 
 
 def main():
-	# IPv4
+	# AF_INET IPv4
 	# SOCK_STREAM 使用TCP连接
 	s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 	# Get local IP and Port from OS
