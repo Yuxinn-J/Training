@@ -21,10 +21,10 @@ def main():
     s.send(f'''
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
 Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51'''.encode())
-    s.send(b'\n')
+    s.send(b'\n\n')
+    # Body
     s.send(b'\n')
     print('Message sent')
-    # Body
 
     # bytes
     data = b''
@@ -42,7 +42,6 @@ Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51'''.encode())
         items = data[index:index + 300].split('"')
         print(items[7])
 
-    # Close connection
     s.close()
 
 
