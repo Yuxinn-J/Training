@@ -30,6 +30,15 @@ def read_data():
     return todo_list
 
 
+def mark_as_done(todo_list, item_id):
+    todo_list[item_id]['done'] = True
+    with open('data.txt', 'w') as f:
+        for todo in todo_list:
+            done = 1 if todo['done'] else 0
+            f.write(f'{todo["id"]}:{done}:{todo["value"]}\n')
+    return
+
+
 def parse_request(request: str):
     method, path = get_method_and_path(request)
 
@@ -37,14 +46,20 @@ def parse_request(request: str):
         todo_list = read_data()
         response = '<h1>Todo list</h1>\n'
         for todo in todo_list:
-            response += f'<form method="POST" action="/todo/{todo["id"]}">{todo["value"]}<input type="submit"/></form>'
+            if todo['done'] is True:
+                todo['value'] += 'Done: ' + todo['value']
+            response += f'''
+<form method="POST" action="/todo/{todo["id"]}">
+{todo["value"]}
+<input type="submit"/></form>'''
         return response, 200
 
     if path.startswith('/todo'):
         item_id = path.split('/')[-1]
-        if item_id.isdigit():
+        if item_id.isdigit() and method == 'POST':
             item_id = int(item_id)
             todo_list = read_data()
+            mark_as_done(todo_list, item_id)
             return f'<p>{todo_list[item_id]}</p>', 302
         return '<h1>404 not found</h1>', 200
 
