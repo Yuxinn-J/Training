@@ -1,0 +1,21 @@
+<h1>Todo list</h1>
+
+<form method="POST" action="/todo/1">
+{data1}
+<input type="submit"/>
+</form>
+
+<form method="POST" action="/todo/2">
+Apply Entry Approval
+<input type="submit"/>
+</form>
+
+<form method="POST" action="/todo/3">
+Study Deep Learning
+<input type="submit"/>
+</form>
+
+<form method="POST" action="/todo/4">
+Study on Coursera
+<input type="submit"/>
+</form>
