@@ -2,7 +2,9 @@ import numpy as np
 import time
 
 a = np.array([1, 2, 3, 4])
+u = np.exp(a)
 print(a)
+print(u)
 
 # create a million dimensional array with random values
 a = np.random.rand(1000000)
