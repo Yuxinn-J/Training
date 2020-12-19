@@ -3,10 +3,9 @@ from dataset.loader import load_mnist
 import matplotlib.pyplot as plt
 
 '''
-x:
-y, y_hat:
-w:
-b:
+x: 1 * 784
+y, y_hat <--> model(x): 1 * 10
+w: 784 * 10
 '''
 
 
@@ -20,9 +19,9 @@ class LinearModel:
 
 def propagate(x: np.ndarray, y):
     # forward propagation -> nll_loss
-    x = x - x.max()
-    softmax_x = np.exp(x) / np.exp(x).sum()
-    y_hat = np.clip(softmax_x, 1e-8, None)
+    a = model(x) - (model(x)).max()
+    softmax_a = np.exp(a) / np.exp(a).sum()
+    y_hat = np.clip(softmax_a, 1e-8, None)
     nll_loss = -(y * np.log(y_hat)).sum()
 
     # backward propagation
@@ -47,7 +46,7 @@ def train(model, data, label, lr=0.01, epoch=5):
             model.weight -= lr * grad
 
         loss_list.append(loss_accumulator / 60000)
-        print('Epoch:', epoch_iter)
+        print(f'Epoch:{epoch_iter} Loss: {loss_accumulator / 60000}')
 
     plt.plot(loss_list)
     plt.xlabel('Epoch')
@@ -66,18 +65,12 @@ def test(model, data, label):
     print(f'test accuracy: {correct/total * 100} %')
 
 
-# Todo
-# 1. 尝试训练 1 个 epoch, 3 个 epoch, 5 个 epoch, 并比较这几个 epoch 下训练出来的模型的准确度
-# 2. 使用 matplotlib 打印出每个 epoch 的 loss 均值变化曲线图
-# 3. 尝试使用不同的 learning rate, 并打印出每个 epoch 的 loss 均值变化曲线图
-# 4. 声明一个线性模型 LinearModel, 并添加 bias: y = wx + b. 训练这个模型, 对比没有 bias 时的准确度(在梯度下降的时候除了更新 weight 还要更新 bias).
-
-
 if __name__ == '__main__':
     # 加载数据集
 
     train_data, train_label, test_data, test_label = load_mnist()
+
     model = LinearModel(784, 10)
 
-    train(model, train_data.reshape((60000, 784)), train_label, epoch=10)
+    train(model, train_data.reshape((60000, 784)), train_label, lr=0.01, epoch=5)
     test(model, test_data.reshape((10000, 784)), test_label)
