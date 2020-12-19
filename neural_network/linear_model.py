@@ -1,5 +1,5 @@
 import numpy as np
-from mnist.loader import MNIST
+from dataset.loader import load_mnist
 import matplotlib.pyplot as plt
 
 '''
@@ -76,10 +76,7 @@ def test(model, data, label):
 if __name__ == '__main__':
     # 加载数据集
 
-    mndata = MNIST('./python-mnist')
-    mndata.gz = True
-    train_data, train_label = mndata.load_training()
-    test_data, test_label = mndata.load_testing()
+    train_data, train_label, test_data, test_label = load_mnist()
     model = LinearModel(784, 10)
 
     train(model, train_data.reshape((60000, 784)), train_label, epoch=10)
