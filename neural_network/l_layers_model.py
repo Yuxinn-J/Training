@@ -20,13 +20,13 @@ def initialize_parameters_deep(layer_dims: list) -> dict:
     L = len(layer_dims)  # number of layers in the network
 
     for l in range(1, L):
-        parameters['W' + str(l)] = np.random.randn(layer_dims[l - 1], layer_dims[l]) * 0.01
+        parameters['W' + str(l)] = np.random.randn(layer_dims[l - 1], layer_dims[l]) * np.sqrt(2 / layer_dims[l - 1])
         parameters['b' + str(l)] = np.zeros((1, layer_dims[l]))
 
     return parameters
 
 
-def softmax(x: np.ndarray) -> np.ndarray:
+def softmax(x: np.ndarray) -> np.ndarray:·
     x -= np.expand_dims(np.max(x, axis=1), axis=1)
     return np.exp(x) / np.exp(x).sum()
 
@@ -72,14 +72,6 @@ def l_model_forward(X: np.ndarray, parms):
     caches.append(cache)
 
     return AL, caches
-
-
-def cross_entropy_loss_derivative(y, y_hat):
-    y_hat = np.clip(y_hat, 1e-8, None)
-    # nll_loss
-    grad = -y / y_hat
-    # An array with elements from y_hat where condition is True, and elements from y_hat-1 elsewhere.
-    return np.where(grad == 0, y_hat, y_hat - 1)
 
 
 def softmax_backward(dA, cache):
