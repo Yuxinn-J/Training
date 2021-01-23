@@ -1,0 +1,402 @@
+index,company,blurb,location,field,joined,followers
+0,_1': '<div class=,"ss=""with_data dir--tags__show file--results _a _jm"" data-max_page=""451"" data-_tn=""tags/show/results""><div class="" dir--tags__show file--row _a _jm"" data-_tn=""tags/show/row""><div c",\n<div,\n<div,<di _,tags_
+1,Rubikloud,Retail Analytics ,Toronto,Cloud Data Services,Aug 1,110
+2,KeyMe,Don&#39;t get locked out again.  We make it easy to get a key or a locksmith,New York City,Robotics,Jun 1,160
+3,Metromile,Customizable pay-per-mile car insurance so you can save,Tempe,Insurance,Jun 1,292
+4,Quid,Turn text into context with Quid&#39;s one-of-a-kind analytic software,San Francisco,Data Visualization,Oct 1,470
+5,Gradberry,Curated technical talent via code analysis (YC W15),San Francisco,Artificial Intelligence,Mar 1,147
+6,kwikdesk,Powering Secure &amp; Intelligent Data,Ireland,Communications Software,Nov 1,40
+7,Kite.com,Kite is an AI copilot that helps programmers write code,San Francisco,Information Services,Apr 1,201
+8,Symphony AyasdiAI,Artificial intelligence for the enterprise. A new generation of solutions for financial services,Palo Alto,Data Visualization,Jan 1,124
+9,Directly,Resilient Customer Support - Directly uses the right mix of automation &amp; human support,San Francisco,Messaging,Jun 1,906
+10,Auro,Autonomous Shuttles for Transportation Within Campuses,Santa Clara,Robotics,Jul 1,172
+11,Leap Motion,Reach into virtual reality with your bare\xa0hands,San Francisco,Augmented Reality,Mar 1,1518\
+12,B12,Human-assisted AI helping businesses grow online,New York City,Small and Medium Businesses,Aug 1,332
+13,Haiku Deck,"Mobile-First, Cloud-based Presentations 10x faster, 10x more beautiful",Seattle,Productivity Software,Jul 1,56
+14,"Ironclad, Inc.",Powering the world’s contracts with products that legal teams love,San Francisco,Consulting,Oct 1,121
+15,Rise Art,"Contemporary Art, Hand-Picked by Experts",London,Marketplaces,Jul 1,309
+16,Lucid,#1 Destination For 3D Photo/Video Sharing ,Santa Clara,Consumer Electronics,Oct 1,417
+17,Pit.AI Technologies,The AI-powered hedge fund charging no management fees,San Jose,Hedge Funds,Mar 1,87
+18,Maestro,"White label platform for enterprise live streamers to own, engage, and monetize audiences",Los Angeles,Video Streaming,Mar 1,124
+19,ROSS Intelligence,Siri for the law. We provide cited answers to natural language legal questions,Palo Alto,Legal,Jan 1,197
+20,GumGum,GumGum is an artificial intelligence company with expertise in computer vision,Santa Monica,Computer Vision,Jul 1,226
+21,MindMeld,Intelligent Conversational Interfaces Powered by AI &amp; Natural Language Processing,San Francisco,Artificial Intelligence,Oct 1,569
+22,RadiumOne,,San Francisco,Mobile Advertising,Feb 1,76
+23,Bellabeat,"The future of health care lies in prevention, not correction",San Francisco,Artificial Intelligence,Mar 1,336
+24,LawPal,Conversational search AI for Law ,San Francisco,Legal,Dec 1,230
+25,Hive,Full-stack deep learning platform,San Francisco,Computer Vision,Dec 1,1037\
+26,Amitree,"Stay organized, stay on track right in your inbox",San Francisco,Productivity Software,Nov 1,187
+27,NextUser,"Platform with Analytics, Personalization &amp; OmniChannel",San Francisco,Developer APIs,Apr 1,95
+28,Boxfish,AI Platform for Entertainment Data,Palo Alto,Entertainment Industry,May 1,83
+29,Bluecore,Transform shoppers into lifetime customers,London,Retail Technology,Jun 1,315
+30,Matterport,Matterport is the leading spatial data company digitizing and indexing the built world,Sunnyvale,Computer Vision,Oct 1,564
+31,Swoop,Swoop is an AI company improving patient outcomes and lowering healthcare costs,Boston,Artificial Intelligence / Machine Learning,Jan 1,48
+32,PandaWhale,Actionable Advice That Helps People Make Better Money Decisions,Sunnyvale,Finance Technology,May 1,773
+33,FiscalNote,Fiscalnote changes the way you mitigate risk and manage the issues that impact your organization,Washington DC,Data Visualization,Jun 1,534
+34,Jetlore,"Turn consumer behavior into structured, actionable data about your customers",San Mateo,Predictive Analytics,May 1,630
+35,Diffbot,Tap into accurate data from a single page or the entire web with Diffbot AI,Menlo Park,Semantic Search,Nov 1,425
+36,Reonomy,Reonomy creates intuitive products designed to help CRE professionals achieve success,New York City,Information Services,Feb 1,302
+37,ReSci (Retention Science),AI Personalization &amp; Marketing Software,Santa Monica,Predictive Analytics,Jun 1,811
+38,Synthace,Empowering biologists with flexible programming and control of lab automation,Cambridge,Synthetic Biology,Oct 1,229
+39,Incredible Labs,"Creators of Donna, a mobile personal assistant that anticipates your needs",San Francisco,Artificial Intelligence,Jan 1,261
+40,Converge Venture Partners,early stage vc fund; capital and connections for tech entrepreneurs,Boston,Cloud Computing,Jul 1,136
+41,Stylitics,Cloud-based SaaS platform for retailers to automate &amp; distribute visual content at scale,New York City,Retail Technology,Jun 1,113
+42,Humanoid,Labor in the Cloud,San Francisco,B2B,Jan 1,576
+43,Vidado,Delivering AI software capable of understanding even the most illegible handwriting,Oakland,Data Integration,Feb 1,728
+44,Evercontact,ACQUIRED BY ONE MORE COMPANY INC,Paris,SaaS,Jan 1,224
+45,Catchpoint,Every experience matters,Boston,Application Performance Monitoring,Jan 1,161
+46,Any.do,The task completion company,San Francisco,Productivity Software,Oct 1,79
+47,Topicmarks,Auto-organize your cloud documents meaningfully,San Francisco,Information Services,Nov 1,108
+48,Volara,Voice-hub for Hospitality,New York City,Hospitality,Jun 1,65
+49,Kid Koderz City,Technology Education Summer Camps,Toronto,Technology,Jun 1,26
+50,Nautilus Labs,"Nautilus provides predictive analytics to reduce fuel, optimize fleet performance, &amp; maximize ROI",New York City,Shipping,Nov 1,122
+51,Descartes Labs,Create advantage through scientifically validated analytics,Santa Fe,Computer Vision,Apr 1,116
+52,Hyperscience,The Automation Company,Sofia,Data Center Automation,Nov 1,1254\
+53,Validere,Optimizing the oil and gas supply chain,Calgary,Commodities,Jul 1,95
+54,Tact.ai,the first omnichannel AI-powered assistant for salespeople ,Redwood City,Artificial Intelligence,Mar 1,101
+55,fuzzy.ai,Easy Machine Learning for Developers,San Francisco,Developer APIs,Dec 1,150
+56,Fathom,deep learning to automate medical coding,San Francisco,Artificial Intelligence,May 1,544
+57,Marble,Building and coding smart robots to assist you with varied tasks,San Francisco,Robotics,Nov 1,266
+58,Shred Video,1-button video editing,San Francisco,Artificial Intelligence,Nov 1,242
+59,BioBeats,Artificial Intelligence for Healthy Living,London,Artificial Intelligence,Mar 1,149
+60,Sunlight,Unlock Potential,London,B2B,Oct 1,56
+61,FloydHub (YC W17),Heroku for Deep Learning,San Francisco,Cloud Infrastructure,Mar 1,112
+62,BIOS,A full-stack neural interface company,Cambridge,Neuroscience,Mar 1,61
+63,Dataminr,The Leading AI Platform for Real-Time Event and Risk Detection,New York,Technology,Jan 1,234
+64,SilverPush,Artificial Intelligence driven advertising for video content,Gurgaon,Artificial Intelligence,Dec 1,854
+65,Sportsy,Mobile education and training for sports,Los Angeles,SaaS,Aug 1,432
+66,Orion Labs,"Orion is the leader in communication &amp; automation for mobile, frontline workers",San Francisco,B2B,Mar 1,858
+67,Mashgin,Reinventing the checkout experience,Palo Alto,Retail Technology,Feb 1,105
+68,Bountiful,Farm better with actionable forecasting,San Francisco,Big Data Analytics,Feb 1,186
+69,Golden,Mapping Human Knowledge,San Francisco,Knowledge Management,Feb 1,99
+70,AppZen,The ai platform for modern finance teams,Tempe,Accounting,Apr 1,258
+71,Neura,Increase User Engagement Through Context,Sunnyvale,Internet of Things,Apr 1,153
+72,Wit.ai,Natural Language for the Internet of Things,Palo Alto,Artificial Intelligence,Feb 1,227
+73,Comfy,"Comfy connects people, places, and systems through one intuitive workplace app",Oakland,Internet of Things,Nov 1,262
+74,Petnet,Smarter Feeding for Healthier Pets,Los Angeles,Intelligent Systems,Jun 1,171
+75,Quanergy Systems,Sensing the World in 3D with centimeter accuracy,Silicon Valley,Location Based Services,Jun 1,30
+76,Rigetti Computing,Our quantum systems give you the power to solve the world’s most important and pressing problems,Berkeley,High Performance Computing,Jul 1,299
+77,Clarifai,Everything you need to get started with computer vision AI models,Tysons,Visual Search,May 1,279
+78,Scaled Inference,Intelligent Computing for All,Palo Alto,Artificial Intelligence,May 1,173
+79,Zero Slant,"Automated Video News, Built from Social Media",San Francisco,Social News,Mar 1,757
+80,mode.ai,AI Visual Bot for Conversational Shopping,Palo Alto,Visual Search,Sep 1,95
+81,harvest.ai,Stop data theft before it happens,San Diego,Predictive Analytics,Sep 1,220
+82,Paperspace,Powering next-generation workflows and the future of intelligent applications,Amsterdam,Cloud Infrastructure,Sep 1,294
+83,Mona,The world&#39;s smartest personal shopping assistant (Techstars NYC &#39;15),Seattle,Mobile Commerce,Jul 1,56
+84,test.ai,AI-Powered App Testing,Seattle,Developer Tools,Nov 1,120
+85,Storytree,Create amazing products with your photos,San Francisco,Mobile Commerce,Jun 1,481
+86,Juro,Supercharged contract automation,London,Legal Tech,Jan 1,88
+87,JASK (now Sumo Logic),JASK is modernizing security operations to reduce organizational risk by improving human efficiency,Austin,Cyber Security,Sep 1,92
+88,Kylie.ai (acquired),Automating Enterprise Conversations Through Cloning Technology,San Francisco,SaaS,Jan 1,180
+89,Casetext,We empower attorneys to do their best work representing clients and fighting injustice,San Francisco,Crowdsourcing,Sep 1,733
+90,Leanplum,Multi-Channel Customer Engagement. Build lasting and valuable relationships,Singapore,Messaging,Nov 1,643
+91,Bidgely,AI-powered SaaS Company accelerating a clean energy future,Mountain View,Energy Efficiency,Dec 1,168
+92,Figure Eight,The essential human-in-the-loop platform for data science teams,San Francisco,Big Data Analytics,Mar 1,409
+93,Datatron,Enterprise AI Platform,San Francisco,Big Data,Dec 1,195
+94,Scale AI,The API For Training Data,San Francisco,Developer APIs,May 1,183
+95,Gridspace,"Giving the customers the power to capture, understand, and handle conversations in real-time",San Francisco,Speech Recognition,Nov 1,225
+96,Axiom Zen,"We are the best parts of a startup, a venture capital firm, and an incubator",Vancouver,Product Design,Dec 1,609
+97,Checkr,The only background check company using artificial intelligence and machine learning,San Francisco,Information Services,Aug 1,621
+98,Versus,Machine &amp; User Generated Comparisons of Anything,Berlin,Online Shopping,Jan 1,102
+99,GYANT,Siri for healthcare,San Francisco,Artificial Intelligence,Jun 1,80
+100,Blueshift,AI Powered Customer Engagement,San Francisco,Personalization,Jul 1,121
+101,Socratic (acq. Google),Homework in a snap,New York City,Artificial Intelligence,Apr 1,73
+102,Cape Analytics,Helping customers elevate their underwriting and protect their business and property,Mountain View,Insurance,Nov 1,19
+103,People.ai,"AI Platform for Data-Driven Sales and Marketing, YC S&#39;16",San Francisco,Intelligent Systems,Mar 1,251
+104,Vidora,Think better. Think faster,San Francisco,Big Data,Oct 1,622
+105,Atomwise,AI for drug discovery,San Francisco,Pharmaceuticals,Jun 1,109
+106,Gorgias,Helping companies to generate additional revenue easily from your customer support,San Francisco,Productivity Software,Mar 1,137
+107,RedCarpet.CASH,Data driven  Lending for  purchase finance and installments. ML based Credit Scoring,\n<div,Consumer Lending,Jan 1,110
+108,Qloo,Qloo is the Cultural AI ,New York City,Developer APIs,Sep 1,113
+109,CommitChange,Fundraising Platform for Nonprofits,\n<div,Nonprofits,Dec 1,193
+110,UpGuard,We&#39;re protecting the world&#39;s data,Mountain View,Intelligent Systems,Mar 1,242
+111,Veryfi (#YC W17),Software to Automate Construction Project Bookkeeping,San Mateo,Developer APIs,Mar 1,50
+112,DISCO,"Speeding up review times, improving accuracy with advanced AI, and securing your data",Austin,Legal,Apr 1,58
+113,Visionnaire Ventures,,San Francisco,Robotics,Oct 1,34
+114,Wade &amp;amp; Wendy,Conversational AI to deliver talent and teams effective and personalized recruiting,New York City,Hr Tech,May 1,246
+115,Import.io,Helping the world’s largest companies strategize for success with smart web-data,Los Gatos,B2B,Aug 1,214
+116,Octane AI,The Buyer Profile Platform for Ecommerce,Remote,Messaging,Jun 1,115
+117,HiOperator,Customer support as-a-service. YCombinator S16. 2019 43North Winner,Buffalo,Customer Service,Aug 1,106
+118,Cardiogram,We want to turn your wearable device into a continuous health monitor,San Francisco,Mobile Health,Mar 1,64
+119,Joonko,ENGINEERING THE FUTURE OF D&amp;I,Tel Aviv-Yafo,B2B,Mar 1,36
+120,Scribe (acquired by Rippling),Convert your favorite apps into completely customizable Slack Bots,San Francisco,Sales Automation,Apr 1,62
+121,Mosaix,Language AI for Emerging Markets,Palo Alto,Emerging Markets,Nov 1,177
+122,HiringSolved,We make talent discovery easy,Chandler,Talent Analytics,Aug 1,38
+123,CareSkore,Personalized Population Health Management,San Francisco,Predictive Analytics,Jan 1,118
+124,NavTrac,AI-Powered Yard Management Software (YMS),Palo Alto,Computer Vision,Apr 1,48
+125,Snappr,The easiest and most affordable way to book a great photographer,Sydney,Photo Sharing,Jun 1,95
+126,Ordergroove,Frictionless relationship commerce generating recurring revenue for your business,New York City,B2B,May 1,78
+127,MoBagel,Predictive AI for Enterprises,Taipei,Predictive Analytics,Feb 1,155
+128,One Concern,A benevolent AI company that provides trusted insights to emergency responders,Palo Alto,Governments,Aug 1,141
+129,Arterys,Transforming medical imaging by empowering physicians with our web-based AI platform,San Francisco,Deep Learning,Apr 1,148
+130,Saleswhale,Saleswhale is an automated sales development assistant,Singapore,B2B,Aug 1,38
+131,Hugging Face,"Democratizing NLP, one commit at a time!",Paris,Open Source,Jan 1,406
+132,Krome Photos,Photo app &amp; crowdsource service for family &amp; business image editing in hours,Palo Alto,Crowdsourcing,Dec 1,62
+133,Weave.ai,(TechStars &#39;15) Changing the way people interact with their devices,London,Consumer Electronics,Mar 1,102
+134,Sense Chat (Sensay),Blockchain Powered Messaging Platform,Los Angeles,Messaging,Mar 1,311
+135,Osmo,"Make kids fall in love with learning, through play",Palo Alto,Consumer Electronics,Jan 1,144
+136,Growth Intelligence,Predictive go-to-market intelligence,London,Marketing,Nov 1,61
+137,Storybricks,"I, for one, welcome our new AI overlords. 2010-2015",San Diego,MMO Games,Jul 1,299
+138,Maluuba,,Waterloo,Speech Recognition,Sep 1,122
+139,Skry (acquired by Bloq),Blockchain Intelligence,Palo Alto,Blockchains,Nov 1,309
+140,Yodas.com,We&#39;re on a mission to empower individuals to reach their full potential,Mountain View,Artificial Intelligence,Mar 1,67
+141,Thread Genius (acq. by Sotheby&#39;s),Mapping the world&#39;s visual taste,New York City,Deep Learning,Dec 1,136
+142,Aromyx,"The Actual Nose, in a Sensor - Platform for Digital Smell and Taste Data",Mountain View,Synthetic Biology,Oct 1,231
+143,BRAIQ,Personalizing the ride experience in autonomous cars,New York City,Neuroscience,Aug 1,43
+144,BenchSci,ML platform for reagent selection and experiment design,Toronto,Deep Learning,Jul 1,73
+145,SoundHound,Turning sound into understanding and actionable meaning,Boulder,Audio,Jul 1,93
+146,Nexosis,Machine Learning for Developers,Columbus,Developer APIs,Jul 1,24
+147,Ground News,World&#39;s First News Source Comparison platform,Kitchener,Artificial Intelligence,Mar 1,42
+148,Sensum,Understanding consumer emotions anytime anywhere,Belfast,Market Research,Aug 1,23
+149,James,Data Science for a safer Financial World ,Lisbon,PaaS,Sep 1,174
+150,Gauss Surgical,AI-Enabled Platform for Surgery,Menlo Park,Computer Vision,Sep 1,130
+151,Funding Options,"The UK&#39;s leading marketplace for business finance, helping businesses walk tall",London,B2B,Apr 1,66
+152,Synx.co,Synx provides computer vision solutions to companies and organizations,San Jose,Computer Vision,Jul 1,38
+153,Stepsize,SaaS to manage technical debt,London,Developer Tools,Feb 1,26
+154,Fingertips Lab,Turns apps into radio stations,San Francisco,Wearables,Oct 1,70
+155,Got It AI,Leveraging Transformers for Easy Deployment of Self-Managing Conversational AI at Lowest Cost,Hanoi,Real Time,Jun 1,331
+156,Clarke.ai,AI Technology That Takes Notes During Your Conversations,New York City,Video Conferencing,Jul 1,101
+157,Kemvi,AI-powered growth acceleration for modern sales and marketing teams,Cambridge,Artificial Intelligence,Jun 1,14
+158,Attentive,Ensure CRM data quality with a fully automated tool,Boulder,Developer APIs,Jan 1,30
+159,Neutun Labs,Conversational AI for Mental Health &amp; Chronic diseases,San Francisco,Mental Health,Nov 1,175
+160,MedWhat,Personal Medical Assistant using medical artificial intelligence,San Francisco,Bioinformatics,Mar 1,186
+161,Jibo,Interactive social robot,Boston,Robotics,Mar 1,127
+162,Pluto AI,AI powered analytics platform for smart water management,Palo Alto,Deep Learning,Apr 1,74
+163,Sensentia,Empowering people to fully understand their health insurance benefits,San Francisco,Mobile Health,Mar 1,214
+164,Enertiv,We Transform Building Data into Asset Value,New York City,Internet of Things,Dec 1,285
+165,Union Crate,Supply chain platform driven by AI,New York City,Supply Chain Management,Oct 1,18
+166,firstAI,Fixed Income Machine Intelligence,New York City,Technology,Jul 1,49
+167,RealSynth,Virtual Worlds to safely train and develop intelligent agents as a service,Berlin,Virtual Worlds,Jun 1,12
+168,Vicarious AI,Combining insights from generative probabilistic models and systems neuroscience,Union City,Robotics,May 1,165
+169,metadata.io,Autonomous Demand Generation,Vancouver,B2B,Sep 1,97
+170,Yonder,A software company that helps users understand the cultural context behind information online,Austin,Data,Jul 1,31
+171,Faception,"Facial Analytics,for early detection of visual symptoms of COVID-19 and Pandemic patients ",San Francisco,Fraud Detection,Mar 1,78
+172,Enlitic,Enlitic uses deep learning to make doctors faster and more accurate,San Francisco,Predictive Analytics,Oct 1,221
+173,Cucumber Tony,AI-powered WiFi. We optimise WiFi networks with AI and Machine Learning,London,Internet of Things,Oct 1,9
+174,EverString,"Empower your organization with the most comprehensive, actionable business data",San Mateo,B2B,Jan 1,64
+175,IamBot,Comprehensive conversational commerce solution backed by state-of-the-art AI,Burlingame,Mobile Commerce,Jun 1,5
+176,Zoom.ai,Work Better,Toronto,Intelligent Assistants,Feb 1,127
+177,Verdigris,Energy Intelligence for Critical Buildings,Mountain View,Real Estate Technology,Oct 1,429
+178,NexLP,Next Generation Cognitive Computing,Chicago,SaaS,Jun 1,26
+179,Rasa,Rasa supplies the standard infrastructure for conversational AI,Remote,Open Source,Dec 1,138
+180,Mighty AI,Training Data as a Service™ for Autonomous Vehicle AI,Seattle,Computer Vision,Dec 1,154
+181,Galaxy.AI,"AI based claim estimation, disrupting a $80B/year market",Cambridge,Insurance,Aug 1,51
+182,Zumata,"Hotel Distribution API - Artificial Intelligence Travel Technology  - 500,000 Hotels",Singapore,Hospitality,Dec 1,86
+183,Trendalytics,"Buy Better, Faster",New York City,Retail Technology,Jan 1,322
+184,SkipFlag,AI knowledge base that builds itself from your internal communication,San Francisco,Knowledge Management,Jan 1,17
+185,Ava Accessibility,Live subtitles for any conversation. enjoy 24/7 access to conversations around you,San Francisco,Communications Hardware,Mar 1,180
+186,MDacne (YC W17),Building the future of Dermatology,San Francisco,Mobile Health,May 1,50
+187,MonkeyLearn,Create new value from your data,Montevideo,Developer APIs,Nov 1,171
+188,C3.ai,Helping industry leaders leverage enterprise AI at unprecedented scale to thrive in the digital era,Sydney,Predictive Analytics,Jan 1,112
+189,bottr.me,Un-chain yourself with smart - cryptocurrency and chatbot powered - messaging platform,San Francisco,Messaging,Aug 1,83
+190,Mycroft AI,"The custom, private, and open voice assistant",Kansas City,Consumer Electronics,Nov 1,146
+191,Pathover,Intelligent optimization and logistics for the last mile,Sunnyvale,Logistics,May 1,48
+192,Pager,"Patients can interact with their care team anytime, anywhere, via chat, voice &amp; video",Raleigh,Doctors,Mar 1,246
+193,SupplyAI,Powering Customer-centric Commerce for DTC Brands,Sunnyvale,Retail Technology,Jan 1,155
+194,Imagen Technologies,Applying Artificial Intelligence To Medical Diagnostics,New York City,Computer Vision,Feb 1,351
+195,Glint,Leveraging real-time people data to fuel organizational success,Redwood City,Human Resources,Mar 1,36
+196,GoodTime Labs,"Make commerce smarter, and proactive",Palo Alto,Families,Jun 1,89
+197,Snips,Private by Design voice assistant that runs on the edge,Paris,Internet of Things,Dec 1,55
+198,Ropazi,Shopping Made Personal for Busy Parents,San Francisco,Mobile Commerce,Apr 1,31
+199,EquitySim,EquitySim is unlocking human potential through learning simulations,Vancouver,Hr Tech,Apr 1,63
+200,Lambda,GPU Workstations and Servers. Computation as an accelerant for human progress,San Francisco,Hardware + Software,Oct 1,93
+201,Kinzon Capital,Cross boarder venture capital,Palo Alto,Robotics,Jun 1,13
+202,Beeketing,Marketing Automation for E-commerce #500Strong,San Francisco,Marketing Automation,Aug 1,37
+203,Dave - Banking For Humans,Banking for Humans,Los Angeles,Finance Technology,Apr 1,152
+204,Boon,making referral recruiting effortlessly scalable and infinitely effective,Culver City,Social Recruiting,Nov 1,179
+205,Emailage,Fight fraud. give your customers the experience they deserve,Chandler,Real Time,Apr 1,29
+206,Zoox,Create Autonomous Mobility | Change The Universe,Foster City,Robotics,Aug 1,180
+207,SRI International,,Menlo Park,Robotics,Dec 1,173
+208,AlfredCamera,Simple security at your fingertips,Taipei,Internet of Things,Nov 1,80
+209,Luminoso Technologies,Illuminating the unknown in your data,San Francisco,Big Data Analytics,Mar 1,84
+210,Asparia,Transform Operations with Intelligent Automation,Saratoga,mHealth,Nov 1,81
+211,Meya,Meya is a customer experience (CX) automation platform,Waterloo,Messaging,Apr 1,53
+212,re:infer,Enterprise Intelligence Layer -- automating interpretation of human communications data,London,SaaS,May 1,54
+213,FoxType,A.I. for writing,San Francisco,Deep Learning,Nov 1,75
+214,DeepScale,Perception for Autonomous Vehicles,Mountain View,Deep Learning,Feb 1,62
+215,CarePredict,The premier deep learning platform in Eldercare,Palo Alto,Predictive Analytics,Sep 1,142
+216,Thingthing Ltd. (Fleksy keyboard),The fastest and smartest keyboard in the world,London,Artificial Intelligence,Jan 1,53
+217,Team Machine,Artificial intelligence to dramatically improve team performance and predict outcomes,San Francisco,Predictive Analytics,Jun 1,52
+218,Get@ | GetAt,Follow your curiosity!,Silicon Valley,Augmented Reality,Dec 1,119
+219,Flye,AI marketing platform to understand your audiences and activate targeted campaigns ,San Francisco,Social Media Marketing,May 1,43
+220,Comet Labs,Intelligent Machines Accelerator Fund,San Francisco,Robotics,Dec 1,60
+221,Deep Genomics,"Revolutions in AI, biology and automation are enabling a new approach to medicine. Deep Ge",Mammoth Lakes,Therapeutics,Nov 1,32
+222,Ansa,Virtual assistant AI that symbiotically optimizes your health,Berkeley,Artificial Intelligence / Machine Learning,Aug 1,354
+223,FightCamp (f.k.a Hykso),Connected at-home boxing workouts,Costa Mesa,Fitness,May 1,90
+224,Snaps,Snaps Enables 1:1 Consumer Marketing At Scale,New York City,Messaging,Apr 1,226
+225,Vahan,Helping low-skilled workers in India find jobs using WhatsApp,Bengaluru,Messaging,Nov 1,143
+226,Arundo Analytics,"Built for capital-intensive, highly-engineered operations, Arundo products turn data into value",Palo Alto,Heavy Industry,Apr 1,19
+227,jobpal,Our AI-powered chatbots are changing the recruiting industry,Berlin,B2B,Jan 1,80
+228,Klue,Market and Competitive Intelligence (AI powered + VC Backed),Vancouver,B2B,Apr 1,216
+229,Popsa,Machine Learning for your Memories,London,Personalization,Jul 1,35
+230,Lilt,"A complete, high-quality, and affordable solution for enterprise translation",San Francisco,Translation,Mar 1,103
+231,Butter.ai,"Your team has Q&#39;s, Butter.ai has A&#39;s",San Francisco,Knowledge Management,Jun 1,83
+232,Ozlo,Ozlo is an integrated knowledge platform powering the intelligent future,Palo Alto,Mobile Application,Jun 1,65
+233,Cobalt Robotics,Indoor robots as a security service,Palo Alto,Robotics,Nov 1,37
+234,Human Augmentation,Companies that make us superhuman,San Francisco,Artificial Intelligence,Apr 1,170
+235,Automat,Build Better Bots,Montreal,Messaging,Apr 1,40
+236,Knowhere,"Building the world’s most trusted, objective and transparent news source",San Francisco,Artificial Intelligence,Jan 1,67
+237,Alloy,A cloud solution for supply chain teams and sales teams,Vancouver,Supply Chain Management,Feb 1,217
+238,SwiftKey,The keyboard that learns from you,London,Technology,Aug 1,27
+239,LeadCrunch.ai,Intelligent Targeted Demand Generation ,San Francisco,Lead Generation,Apr 1,101
+240,ShoppinPal,Integration and Apps platform for the SME Cloud,San Francisco,Retail Technology,Aug 1,232
+241,Vufind (DBA DeepVu),Deep learning as a service for autonomous business planning for manufacturers,Berkeley,Enterprise Resource Planning,Jul 1,130
+242,Gestoos,Computer vision platform that enables natural gesture control of digital devices,San Francisco,Advertising Platforms,Dec 1,55
+243,The Reel - Discover Fashion Around You,Discover | Shop Fashion Around You. AI Fashion platform that styles you,San Francisco,Ecommerce,Mar 1,33
+244,TritonWear,Redefining athlete limits with a wearable and app that actually guides to better training,Toronto,Big Data Analytics,Aug 1,73
+245,Perfect Price,Dynamic pricing with AI,San Francisco,SaaS,Dec 1,77
+246,Tagasauris,Video Search and Discovery Platform ,Santa Monica,Crowdsourcing,Jan 1,148
+247,Kono.ai,AI Scheduling Assistant for Enterprises,San Francisco,SaaS,Nov 1,131
+248,Factmata,Machine learning to battle misinformation/disinformation,London,Artificial Intelligence,Nov 1,292
+249,Fusemachines,AI solutions and services provider,New York City,Artificial Intelligence,Mar 1,51
+250,VIMOC Technologies,Powerful AI distributed edge computing platform,Mountain View,Big Data Analytics,Jan 1,95
+251,Shield AI,Protecting service members and civilians with artificially intelligent systems,Pittsburgh,Robotics,Aug 1,159
+252,Inovance,Making analyzing financial data easy and actionable,New York City,Financial Technology,Aug 1,143
+253,AYLIEN,Extracting Reality from Data,Dublin,Artificial Intelligence,May 1,96
+254,Nexus A.I.,&quot;Autodraft&quot; for Business Teams,Mountain View,B2B,Aug 1,81
+255,Affectiva,Bringing artificial emotional intelligence to the digital world ,Boston,Emotions,May 1,111
+256,GetData,Simple and affordable data gathering to help people make good decisions,San Francisco,Data Mining,May 1,29
+257,Fellow Robots,Cloud-based Inventory Management and Supply Chain Solutions,Burlingame,Internet of Things,Jul 1,160
+258,Charity Engine,World&#39;s biggest crowdsourced cloud platform,Boston,Big Data Analytics,Oct 1,90
+259,Hedgeable,AI Based Private Banking,New York City,Startups,Dec 1,657
+260,optimize.health,"optimize.health: Remote Patient Monitoring, Made Easy",Seattle,Artificial Intelligence,Aug 1,151
+261,Heartbeat Health,"The most effective, efficient, &amp; delightful cardiovascular disease prevention in the world",Washington DC,Technology,Apr 1,70
+262,KeyReply (AngelPad #10),AI chatbot platform for enterprises and governments,Singapore,SaaS,Jun 1,59
+263,Kasisto,Leading conversational AI platform for the finance industry,Mountain View,Finance Technology,Aug 1,100
+264,Paxata,Answers come faster with a little prep. see how you can make data worth analyzing,Redwood City,Data Integration,Jan 1,39
+265,Dashbot,Actionable Analytics for Chatbots and Voice Skills,San Francisco,Big Data Analytics,Aug 1,45
+266,Datacratic,Enabling Artificial Intelligence Innovation,Montreal,Big Data Analytics,Apr 1,19
+267,Seldon,Machine Learning Deployment Platform,London,Open Source,Oct 1,86
+268,The Grid,Website platform powered by artificial intelligence,San Francisco,SaaS,Aug 1,63
+269,Finn AI,"Finn AI is an award-winning, conversational banking chatbot",Vancouver,Banking,Oct 1,139
+270,Echobox,,London,Big Data,Dec 1,96
+271,Vantage Analytics,"Please visit: <a href=""https://angel.co/vantage"">https://angel.co/vantage</a>",Toronto,E-Commerce Platforms,Jan 1,71
+272,MixGenius,Intelligent Music Production SaaS,Montreal,Audio,Oct 1,71
+273,Dispatch,making delivery smart,South San Francisco,Robotics,Nov 1,112
+274,Insurify,The fastest way to shop for car insurance. Browse - Compare - Discover,Cambridge,Insurance,Oct 1,84
+275,Cushion,"Get your bank and credit card fees refunded, automatically",San Francisco,Personal Finance,Nov 1,92
+276,DecorMatters,The 1st collaborative platform making interior design easy and fun,San Francisco,Advertising Platforms,Jul 1,97
+277,MoneyLion,"The easiest way to save more, borrow for less and invest everyday. all in one app",Sandy,Credit,Nov 1,45
+278,"Quantified Skin (CRIXlabs, Inc.)",Cognifying everyday products using AI for the enterprise,San Francisco,Predictive Analytics,Mar 1,204
+279,Sight Machine,The category leader for manufacturing analytics,Ann Arbor,Manufacturing,May 1,76
+280,Business Texter,"Text a business, get an instant, intelligent answer",San Diego,Customer Service,Oct 1,35
+281,Textio,Transforming your ideas into effective writing using the best version of your company’s voice,Seattle,Productivity Software,Oct 1,209
+282,Luka,A.I. that recommends and books places to eat in a chat interface (YC W15),San Francisco,Restaurants,Aug 1,89
+283,Avrio AI,AI Talent Platform ,Boston,Artificial Intelligence,Oct 1,132
+284,NarrativeDx,The AI platform for Patient Experience Improvement,Austin,Hospitals,Jan 1,94
+285,Algorithmia,"A marketplace and common API for algorithms, enabling AI in every application",Seattle,Algorithms,Mar 1,308
+286,MarketMuse,"Transforming how you research, plan, and craft your content",Boston,Content Creators,Nov 1,103
+287,Enzyme,Automating FDA compliance and approval,Remote,Medical Devices,Mar 1,79
+288,PostReach by Primo,A.I. Marketing Platform: Easily Reach More Fans on Social Media,New York City,Content Marketing,Sep 1,22
+289,Plato,Plato is on a mission to help engineering + product leaders become better leaders,San Francisco,Small and Medium Businesses,Apr 1,74
+290,Voltaiq,Battery Intelligence software platform for developers of batteries and battery-powered products,Berkeley,Batteries,Dec 1,56
+291,Notify.io,The leading bot and messaging platform for businesses,San Francisco,Messaging,Jul 1,16
+292,FANG Labs,Artificial Intelligence applications for consumer products,Seattle,Educational Games,Apr 1,15
+293,Grip,The Leading AI-Powered Event Solution,London,Events,Jan 1,72
+294,Kiwi,software that helps people quit smoking,Toronto,Artificial Intelligence,Aug 1,119
+295,Agari,Obliterate BEC attacks. Annihilate spear phishing. Eliminate email identity deception,Foster City,Fraud Detection,Jun 1,27
+296,Dropcountr,Cloud-based analytics and mobile engagement for the new utility and their customers,San Francisco,Consumer,Apr 1,120
+297,UIB,Intelligent IoT Messaging,Singapore,Messaging,Mar 1,398
+298,Pioneer Square Labs,Pioneer Square Labs is a Startup Studio &amp; Venture Capital Fund,Seattle,Small and Medium Businesses,Oct 1,192
+299,API.AI,Conversational speech interfaces for apps and devices,Palo Alto,Mobile Search,Apr 1,137
+300,STELLARES,"World’s first A.I. talent agent, representing top tech talent",San Francisco,Artificial Intelligence,Nov 1,24
+301,Feedzai,"Save your data with Feedzai. Machine learning that really saves your life, one day at a time",San Mateo,Fraud Detection,Jun 1,34
+302,ODYN,Optimize your in-transit inventory with low-cost pallet tracking + AI,Boston,Supply Chain Management,Oct 1,53
+303,WEVO,Stop guessing. Optimize your website BEFORE going live,Boston,Market Research,Jan 1,54
+304,Eloquent Labs,AI to replace and augment customer service reps,Redwood City,Customer Service,Jul 1,24
+305,EmbraceFamily Health,Artificially intelligent digital doctors for healthier people,San Francisco,Digital Health,May 1,139
+306,Originate,Originate drives digital change at world’s top organizations,San Francisco,Product Design,Feb 1,783
+307,Shopperception,In-store behavior monitoring system,Boston,Market Research,Apr 1,77
+308,Jobox.ai,"Unique opportunity to join a hyper-growth, stealth-mode AI startup empowering skilled professionals",Palo Alto,B2B,Dec 1,83
+309,AlphaSense,"With AlphaSense work smarter, not harder. Find the business insights you need in seconds",Helsinki,Market Research,Apr 1,49
+310,StatusToday,Isaak by StatusToday is an AI that gives people analytics to drive organizational change,London,Human Resources,Jun 1,143
+311,Chooch AI,Visual AI for the Enterprise,San Francisco,Computer Vision,Jan 1,43
+312,Car IQ,Machine Learning Connected Car Technology ,San Francisco,Artificial Intelligence,Feb 1,18
+313,Desafia San Francisco,"Scale faster, scale globally",San Francisco,B2B,Sep 1,58
+314,Teamscope,A.I. driven talent analytics for executive search professionals,London,Hr Tech,Jan 1,21
+315,BlockSeer,AI meets blockchain,Sunnyvale,Blockchains,Aug 1,107
+316,DocsApp,Making quality healthcare easily accessible to over a billion people! ,Bengaluru,Artificial Intelligence,Oct 1,704
+317,PublishDrive,Self-publishing platform for business-driven indie authors,Budapest,Technology,Nov 1,18
+318,Breinify,Plug and Play AI Platform,San Francisco,Predictive Analytics,Sep 1,51
+319,Miles,The app that rewards all your commute &amp; travel,Redwood City,Mobility,Jul 1,138
+320,Canvass Analytics,Bringing Industrial Data to Life,Toronto,Industrial,Mar 1,55
+321,PEEQ,Intelligent Video Capture,San Francisco,Augmented Reality,Aug 1,106
+322,inapptics,Inapptics helps app makers analyze user behavior in mobile apps,San Francisco,Mobile Analytics,Sep 1,9
+323,Delve Labs,Complete enterprise security coverage through nonstop autonomous pentest,Montreal,Data Mining,Nov 1,17
+324,OccamzRazor,Accelerating scientific discovery,San Francisco,Neuroscience,May 1,49
+325,"Fitly, Creators of SmartPlate",Intelligent Nutrition Platform,Philadelphia,mHealth,Oct 1,104
+326,MineWhat,A profitablity platform for online retailers,San Francisco,Retail Technology,Jun 1,59
+327,Cognitive Security,Acquired by CISCO. Detecting sophisticated attacks by AI based network traffic analysis,Prague,Enterprise Security,May 1,34
+328,Adazza,Adazza is bringing automation and machine learning to telecoms worldwide,San Francisco,SaaS,Jul 1,28
+329,NeoSound,Translate any sound into meaningful data,Minsk,Call Center Automation,Apr 1,5
+330,Rocco,AI-Powered Social Media Marketing Assistant,San Francisco,Social Media Marketing,Feb 1,284
+331,Firecracker,AI Learning Platform for Healthcare Education,Boston,Personalization,May 1,73
+332,Reactor.ai, Fintech innovation intelligence platform,California,Fin Tech,Oct 1,25
+333,Collibra,Self-service access to data assets for cross-functional collaborations &amp; new opportunities,West New York,Information Services,Oct 1,46
+334,CustEx Determinant Platform,Customer / Voter Crowds Improve Products &amp; Services,Santa Monica,New Product Development,Feb 1,161
+335,Agent IQ,Agent IQ makes banking personal again by putting a personal branch in every pocket,San Francisco,Customer Service,Nov 1,68
+336,Flyreel,The most advanced Artificial Intelligence solution for property insurance,Denver,Insurance,Mar 1,112
+337,Indigo AI,The first AI platform that uses chatbots and machine learning to let brands do the talking,Milan,Artificial Intelligence,Sep 1,22
+338,The Hyper Travel Company,,San Francisco,Logistics,Jul 1,23
+339,Vitagene,Health and wellness personalized,San Francisco,Dietary Supplements,Sep 1,169
+340,LF Tech,Next gen AI and normalization ,Austin,Social Travel,Mar 1,81
+341,Forge.AI,Fueling Machine Intelligence,Boston,Big Data,Mar 1,21
+342,Open Health Network,Integrated AI powered continuous care framework for chronic disease management,Los Altos,B2B,Mar 1,247
+343,Gini,,Munich,Fin Tech,Jan 1,40
+344,Maypole.tv,Empower sellers to create future shops powered by social videos ,San Mateo,Marketplaces,Feb 1,550
+345,Legal Robot,Use AI to understand contracts,San Francisco,Legal,Aug 1,84
+346,Desktop Genetics,Building an AI to re-engineer the human genome,Cambridge,Bioinformatics,Oct 1,151
+347,Kwant.ai,Future of Construction using IoT and Artificial Intelligence ,New York City,Construction,Dec 1,58
+348,Mendel.ai,Advancing Clinical Research by Combining Machine Precision and Human Intuition,San Jose,Clinical Trials,May 1,64
+349,FarmWise,Providing farmers with sustainable solutions to feed a growing world,San Francisco,Robotics,Aug 1,148
+350,Bobble AI Technologies,An expressive way to converse on mobile,Delhi,Android,May 1,121
+351,Lily AI,The leading AI platform to help brands &amp; retailers understand customers&#39; emotional context,Mountain View,Retail Technology,May 1,707
+352,HyperVerge,"Tomorrow&#39;s AI, Delivered Today!",Palo Alto,Banking,Oct 1,260
+353,Motion AI (acquired by HubSpot),Chatbots made easy,Chicago,SaaS,Nov 1,214
+354,mai (Markable AI),Mai is the leading AI visual discovery shopping engine that makes any visual content shoppable,New York City,Visual Search,Aug 1,83
+355,KindHealth,Health insurance recommendation engine,Austin,Insurance,Sep 1,28
+356,Volley (volley.com),A magic lens to learning anything,San Francisco,Education Technology,Mar 1,44
+357,OnCorps,OnCorps builds Decision Guidance solutions for leading financial services firms,Boston,Artificial Intelligence / Machine Learning,Oct 1,17
+358,Predikt,Predictive Talent Acquisition Software,Silicon Valley,Human Resources,Nov 1,89
+359,6sense,"Gives revenue teams the power to know everything, so they can do anything",California,B2B,Apr 1,40
+360,zGlue,Custom Chips on Demand,Mountain View,EDA Tools,Jan 1,149
+361,DigitalGenius,Customer Service Automation Platform,San Francisco,Customer Service,Feb 1,84
+362,Rock My World Media,Smart Media that Motivates,San Diego,Fitness,Sep 1,86
+363,Synapse Technology (acquired),Augmented Cognition company focused on National Security &amp; Defense,Palo Alto,Defense,Mar 1,31
+364,Sunu,Wearable technology that empower the visually impaired to navigate their world,Boston,Augmented Reality,Aug 1,34
+365,Buoy Health,Take the guesswork out of health care,Boston,Mobile Health,May 1,156
+366,Jitjatjo,Contingent labor platform &amp; staffing marketplace leveraging A.I. and Empathic Intelligence,Chicago,Hospitality,Mar 1,32
+367,atSpoke,Modern workplace service desk,San Francisco,SaaS,Oct 1,133
+368,Aislelabs,End-to-End WiFi Marketing and Advertising Platform,London,Marketing,Nov 1,35
+369,XPRIZE Foundation,Making the impossible possible,Los Angeles,Robotics,Jan 1,74
+370,Cerebri AI,Personalizing the enterprise by combining the power of machine learning and cloud computing,Austin,Deep Learning,Apr 1,174
+371,Agolo,"Great summaries get to the point faster, more completely, and more accurately",Cairo Governorate,Content Summarization,Feb 1,68
+372,Cortex,Artificial Intelligence (AI) for Visuals,Boston,Social Media Marketing,Sep 1,78
+373,Solvvy,Provide effortless customer experiences with our intelligent self-service platform,San Mateo,Customer Service,Sep 1,92
+374,Pandascore,Esports data &amp; odds provider,Paris,B2B,Jun 1,79
+375,Clustree,AI for innovative and fast HR decisions,Paris,Human Resources,Feb 1,58
+376,Qubit.,"Using innovative techniques to analyze data, and radically transform website optimization",London,Data Mining,Sep 1,133
+377,Level (formerly Markov),Nespresso for Hot Food - AI Oven + Food for offices,Palo Alto,Food Tech,Oct 1,30
+378,ZoeMob,Global Family Assistant,San Francisco,Location Based Services,Apr 1,40
+379,CloudNC,CloudNC is halving the cost of manufacture for &gt;$100B of components every year,London,Manufacturing,Nov 1,62
+380,Thoughtly,"Machine learning tools for the screening, visualization and summarization of text",Chicago,SaaS,Mar 1,28
+381,Frame AI,Urgent CX priorities pulled from your actual conversations,New York City,Customer Service,Nov 1,25
+382,Sigmoid,Building Data Solutions At Scale - Open Source | Cloud | ML | AI,Sunnyvale,Open Source,Sep 1,68
+383,Blue J Legal,the next generation of legal research,Toronto,Professional Services,Aug 1,30
+384,SmarterMe,Intelligent Inbox for Sales,San Mateo,Artificial Intelligence,Jan 1,24
+385,Fictiv,"get on-demand parts manufactured for any quantity, budget, or timeline",Panyu,Manufacturing,Oct 1,171
+386,Drive.ai,Building the Brain of Self‑Driving Vehicles,San Carlos,Robotics,Nov 1,272
+387,Grammarly,Improving lives by improving communication,Vancouver,Language Learning,Jun 1,410
+388,Trim,Trim automates saving you money,San Francisco,Finance Technology,Feb 1,433
+389,IdeaFlow,A human-AI hybrid “shared brain” for organizations,Palo Alto,B2B,Oct 1,28
+390,Dopamine Labs,Digital Product Incubator,San Francisco,SaaS,Nov 1,13
+391,Narrativ,"Narrativ is a platform for brands to unlock, manage &amp; grow product reviews on the open web",Remote,Retail Technology,Oct 1,48
+392,Octo.ai,Open-source analytics hypervisor,Delhi,Digital Marketing,Apr 1,38
+393,StartupYard,StartupYard is a seed accelerator for deep tech startups,Prague,Industrial Automation,May 1,213
+394,Cocoon Health,Cocoon Health is democratizing access to vitals &amp; health insights using AI,Sunnyvale,Consumer Electronics,Feb 1,79
+395,Butterfly,Butterfly gives managers a simple and consistent way to collect feedback directly from all employees,New York City,Education Technology,Feb 1,140
+396,Behold.ai,Behold.AI uses artificial intelligence to help radiologists diagnose radiology images,London,Computer Vision,May 1,65
+397,Evi,,\n<div,Artificial Intelligence,Jul 1,6
+398,OpenAI,Discovering and enacting the path to safe artificial general intelligence,San Francisco,Online Gaming,Dec 1,117
+399,Popego,,uenos Aires Province,Interest Graph,Apr 1,20
+400,Dataiku,Your path to enterprise ai,Sydney,Data Integration,Nov 1,185
